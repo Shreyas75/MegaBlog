@@ -8,6 +8,7 @@ function App() {
   return (
     <div>
       <h1>Blog App with Appwrite.</h1>
+      <h2>Good Lord, Green Miles</h2>
     </div>
   )
 }
